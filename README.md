@@ -1,6 +1,6 @@
 <h3>Hi there!</h3>
 
-- 🌱 I’m currently learning **coding**
+- 🌱 I’m currently **coding**
 
 - 📫 How to reach me **aslisahin464@gmail.com**
 
